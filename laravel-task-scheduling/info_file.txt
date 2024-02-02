@@ -1,0 +1,27 @@
+total 392
+drwxr-xr-x 12 minhlam minhlam   4096 Feb  2 09:50 .
+drwxr-xr-x  9 minhlam minhlam   4096 Feb  1 16:41 ..
+-rw-r--r--  1 minhlam minhlam    258 Jan  4 23:47 .editorconfig
+-rw-r--r--  1 minhlam minhlam   1190 Feb  1 16:42 .env
+-rw-r--r--  1 minhlam minhlam   1139 Feb  1 16:42 .env.example
+-rw-r--r--  1 minhlam minhlam    186 Jan  4 23:47 .gitattributes
+-rw-r--r--  1 minhlam minhlam    243 Jan  4 23:47 .gitignore
+-rw-r--r--  1 minhlam minhlam    245 Feb  2 09:37 README.md
+drwxr-xr-x  7 minhlam minhlam   4096 Jan  4 23:47 app
+-rwxr-xr-x  1 minhlam minhlam   1686 Jan  4 23:47 artisan
+drwxr-xr-x  3 minhlam minhlam   4096 Jan  4 23:47 bootstrap
+-rw-r--r--  1 minhlam minhlam   1882 Jan  4 23:47 composer.json
+-rw-r--r--  1 minhlam minhlam 299399 Feb  1 16:41 composer.lock
+drwxr-xr-x  2 minhlam minhlam   4096 Jan  4 23:47 config
+-rw-r--r--  1 minhlam minhlam     89 Feb  2 09:50 danh_ngon.txt
+drwxr-xr-x  5 minhlam minhlam   4096 Jan  4 23:47 database
+-rw-r--r--  1 minhlam minhlam      0 Feb  2 09:50 info_file.txt
+-rw-r--r--  1 minhlam minhlam    248 Jan  4 23:47 package.json
+-rw-r--r--  1 minhlam minhlam   1134 Jan  4 23:47 phpunit.xml
+drwxr-xr-x  2 minhlam minhlam   4096 Jan  4 23:47 public
+drwxr-xr-x  5 minhlam minhlam   4096 Jan  4 23:47 resources
+drwxr-xr-x  2 minhlam minhlam   4096 Jan  4 23:47 routes
+drwxr-xr-x  5 minhlam minhlam   4096 Jan  4 23:47 storage
+drwxr-xr-x  4 minhlam minhlam   4096 Jan  4 23:47 tests
+drwxr-xr-x 40 minhlam minhlam   4096 Feb  1 16:41 vendor
+-rw-r--r--  1 minhlam minhlam    263 Jan  4 23:47 vite.config.js
